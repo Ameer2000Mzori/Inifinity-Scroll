@@ -1,10 +1,8 @@
-.header {
+.scroll {
   padding: 5%;
 }
 
-.header-wrap {
-  display: flex;
-  flex-direction: column;
+.scroll-wrap {
   text-align: center;
   align-items: center;
   padding: 5%;
@@ -14,6 +12,16 @@
   background-color: rgba(194, 194, 194, 0.884);
 }
 
-.header-wrap h1 {
-  max-width: 800px;
+.scrollimgs {
+  height: 100%;
+  border-radius: 15px;
+  border-style: solid;
+  border-color: antiquewhite;
+}
+
+@media (max-width: 769px) {
+  .scrollimgs {
+    height: 50%;
+    width: 90%;
+  }
 }
