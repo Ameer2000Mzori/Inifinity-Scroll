@@ -16,7 +16,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 My Portafolio <a name="about-project"></a>
+# 📖 Inifinity-Scroll <a name="about-project"></a>
 
 > Infinity-Scroll is a website created using HTML, CSS, and JavaScript. This website utilizes the Unsplash API to request an infinite number of pictures. When you hover over a picture, information about it will be displayed. If you click on a picture, you will be redirected to the source of that image.
 
